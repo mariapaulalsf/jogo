@@ -16,7 +16,7 @@ public class game
     public game()
     {
         // inicializa variáveis de instância
-        x = 0;
+        x = 1;
     }
 
     /**
